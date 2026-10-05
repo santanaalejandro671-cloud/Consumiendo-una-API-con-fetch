@@ -88,7 +88,7 @@ Finalmente, se muestra el arreglo filtrado con los usuarios cuyo correo electron
 No se incluye un enlace inventado de GitHub. Despues de crear tu repositorio publico, puedes completar aqui tu enlace:
 
 ```text
-Enlace del repositorio: PENDIENTE_DE_COMPLETAR
+Enlace del repositorio: https://github.com/santanaalejandro671-cloud/Consumiendo-una-API-con-fetch
 ```
 
 ### 1. Crear el repositorio
