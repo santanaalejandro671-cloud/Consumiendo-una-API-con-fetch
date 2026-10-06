@@ -10,10 +10,10 @@ https://jsonplaceholder.typicode.com/users
 
 La respuesta se convierte a JSON con `.json()` y se maneja como un arreglo de usuarios originales del endpoint (`ApiUser[]`). Luego se utiliza `map` para crear un nuevo arreglo tipado como `User[]`, conservando unicamente:
 
-- `name`
-- `email`
-- `username`
-- `city`
+ `name`
+`email`
+`username`
+`city`
 
 La propiedad `city` se obtiene desde `address.city`.
 
@@ -33,8 +33,8 @@ asignacion-fetch-users/
 
 ## Requisitos
 
-- Node.js 18 o superior, porque incluye `fetch` de forma nativa.
-- npm.
+Node.js 18 o superior, porque incluye `fetch` de forma nativa.
+npm.
 
 ## Instalacion
 
