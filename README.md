@@ -1,5 +1,7 @@
 # Asignacion TypeScript: Fetch de usuarios
 
+Alexandro Josue Santana Rodriguez 24-SISN-2-057
+
 Este proyecto realiza una peticion HTTP GET al endpoint publico:
 
 ```text
