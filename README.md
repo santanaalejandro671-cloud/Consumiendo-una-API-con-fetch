@@ -84,9 +84,3 @@ Despues se muestra el arreglo transformado con estructura similar a:
 ```
 
 Finalmente, se muestra el arreglo filtrado con los usuarios cuyo correo electronico termina en `.biz` o `.org`.
-
-## Preparar y subir a GitHub
-
-No se incluye un enlace inventado de GitHub. Despues de crear tu repositorio publico, puedes completar aqui tu enlace:
-
-```text
